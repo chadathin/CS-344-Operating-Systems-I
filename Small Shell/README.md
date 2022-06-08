@@ -1,9 +1,9 @@
 # CS 344 Portfolio Project (smallsh)
 
-- To compile, simply run the following command: 
+- To compile, use the following command: 
   - gcc smallsh.c -o smallsh
 
-- Then, to run, simply type: 
+- Then, to run, type: 
   - ./smallsh
 
 - You will be presented with a colon (:) for a prompt.
